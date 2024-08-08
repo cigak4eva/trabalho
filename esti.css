@@ -1,0 +1,312 @@
+body {
+    background-image: url(fundo.jpeg);
+    background-size: 1497px;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    overflow-y: hidden;
+    font-size: 23px;
+    overflow-x: hidden;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+
+.img {
+    width: 90px;
+    position: absolute;
+    top:02%;
+    right: 90%;
+
+}   
+
+p {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 98px;
+    right:128px; 
+}
+
+p1 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 340px;
+    right:128px; 
+}
+
+
+p2 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 347px;
+    left:790px; 
+}
+
+p4 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 392px;
+    left:782px; 
+}
+
+p6 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 438px;
+    left:782px; 
+}
+
+p5 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 390px;
+    left:913px; 
+}
+
+p7 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 420px;
+    left:905px; 
+}
+
+
+p8 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 500px;
+    left:790px; 
+}
+
+p9 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 490px;
+    left:902px; 
+}
+
+p11 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 185px;
+    left:316px; 
+}
+
+p12 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 240px;
+    left:316px; 
+}
+
+p13 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 390px;
+    left:316px; 
+}
+
+p3 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 347px;
+    left:913px; 
+}
+
+p10 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 315px;
+    left:316px; 
+}
+
+h1 {
+    position: absolute;
+    top: 50px;
+    left: 890px;
+}
+
+h2 {
+    position: absolute;
+    top: 97px;
+    left: 410px;
+}
+
+h3 {
+    position: absolute;
+    top: 278px;
+    left: 855px;
+}
+
+.search-box {
+    position: absolute;
+    top: 11%;
+    right: 40%;
+    transform: translate(-09%, -70%);
+    background: rgb(1, 1, 1);
+    height: 20px;
+    width: 500px;
+    padding: 10px;
+    border-radius: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}  
+
+.search-txt {
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0;
+    color: rgba(255, 255, 255, 0.995);
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.slogan {
+    width: 300px;
+    position: absolute;
+    top: 8%;
+    left: 70%;
+}
+
+
+.quadrado {
+    width: 324px;
+    height: 499px;
+    background-color: rgba(138, 138, 138, 0.54);
+    position: absolute;
+    top: 200%;
+    left: 146%; 
+}
+
+.quadra {
+    width: 547px;
+    height: 370px;
+    background-color: rgba(138, 138, 138, 0.54);
+    position: absolute;
+    top: 260%;
+    right: 55%; 
+}
+
+.garchas {
+    width: 418px;
+    height: 370px;
+    background-color: rgba(138, 138, 138, 0.54);
+    position: absolute;
+    top: 290%;
+    left: 57%; 
+}
+
+.nome {
+    width: 324px;
+    height: 60px;
+    background-color: rgba(138, 138, 138, 0.54);
+    position: absolute;
+    top: 200%;
+    left: 146%; 
+}
+
+
+.quadr {
+    width: 140px;
+    height: 30px;
+    background-color: rgba(138, 138, 138, 0.54);
+    position: absolute;
+    top: 859%;
+    left: 146%; 
+}
+
+.quad {
+    width: 140px;
+    height: 30px;
+    background-color: rgba(138, 138, 138, 0.54);
+    position: absolute;
+    top: 969%;
+    left: 146%; 
+}
+
+.qua {
+    width: 140px;
+    height: 30px;
+    background-color: rgba(138, 138, 138, 0.54);
+    position: absolute;
+    top: 1080%;
+    left: 146%; 
+}
+
+.qu {
+    width: 140px;
+    height: 30px;
+    background-color: rgba(138, 138, 138, 0.54);
+    position: absolute;
+    top: 1240%;
+    left: 146%; 
+}
+
+
+.circulo {
+    width: 324px;
+    height: 30px;
+    background-color: rgba(133, 132, 132, 0.679);
+    position: absolute;
+    top: 770%;
+    left: 146%; 
+}
+
+
+
+.container {
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+
+
+.container figure img {
+    height: 140px;
+    width: 150px;
+    position: absolute;
+    top: 77%;
+    left: 587px;
+}
